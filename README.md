@@ -1,5 +1,12 @@
 # api-tester
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/api-tester/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/api-tester/actions)
+![License](https://img.shields.io/github/license/yksanjo/api-tester)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/api-tester)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/api-tester)
+
 ## Detailed Description
 
 api-tester is maintained as an industry-grade software project with production-ready engineering practices.  
